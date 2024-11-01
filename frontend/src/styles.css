@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .editor-page {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  textarea {
+    width: 100%;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
